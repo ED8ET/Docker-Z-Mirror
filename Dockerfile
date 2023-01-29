@@ -1,0 +1,1 @@
+FROM mlbt/zmirror:latest
